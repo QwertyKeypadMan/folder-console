@@ -6,4 +6,3 @@ The plugin that allows you to use folder-console with gui.
 
 
 
-
